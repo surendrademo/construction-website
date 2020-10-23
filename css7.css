@@ -1,0 +1,31 @@
+/*font-family: 'Ubuntu', sans-serif;*/
+body{
+    background-color: khaki;
+}
+.text{
+    color:wheat;
+}
+
+.navbar-brand{
+    font-family:  'Ubuntu', sans-serif;
+    font-size: 30px;
+    font-weight:bold;
+}
+.navbar #mymenu .navbar-nav .nav-item a{
+    color:white;
+}
+.navbar #mymenu .navbar-nav .nav-item a:hover{
+    color:navy;
+}
+.navbar #mymenu .navbar-nav .nav-item:hover{
+    background-color: #fff;
+    border-radius: 20px;
+    text-align: center;
+}
+.back-image{
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    min-height: 70vh;
+    border-radius: 0px;
+}
